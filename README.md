@@ -5,7 +5,6 @@
 ### 1. Python установка
 Изначально необходмо скачать Python. Подробная инструкция установки и сам установочный файл можно найти [здесь](https://www.python.org/downloads/)
 Далее открываем консоль и с помощью ***pip*** устанавливаем необходимые модули.
-![Вид консоли](https://ibb.co/xS7gsG2K)
 ![Вид консоли](https://gitlab.com/Bloomand/project/blob/master/mnist_classification/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA00.PNG)
 ```
 pip install <название модуля>;
